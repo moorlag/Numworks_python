@@ -1,4 +1,5 @@
-# Numworks_python_examples
+# Numworks python examples
+The screen is 320 x 220 pixels
 
 
 
